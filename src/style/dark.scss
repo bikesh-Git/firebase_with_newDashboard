@@ -1,0 +1,26 @@
+.app.dark{
+    background-color: #222;
+    color: gray;
+
+    .charGrid{
+        stroke: rgb(56, 55, 55);
+    }
+
+    .table{
+        background-color: black;
+        .tableCell{
+            color: gray;
+        }
+    }
+
+    .sidebar{
+        border-color: 1px solid rgb(94, 93, 93);
+
+        hr { 
+            border-color: 0.5px solid rgb(112, 112, 112);
+          }
+    }
+    .navbar{
+        border-color: 1px solid rgb(94, 93, 93);
+    }
+}
