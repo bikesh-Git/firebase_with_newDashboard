@@ -121,4 +121,3 @@ const New = ({ inputs, title }) => {
 };
 
 export default New;
-~
